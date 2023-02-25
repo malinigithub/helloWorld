@@ -19,3 +19,6 @@ The time we greeted you.
 uses: actions/hello-world-javascript-action@v1
 with:
   who-to-greet: 'Mona the Octocat'
+  
+## Issues faced:
+https://github.com/coreui/coreui-react/issues/55 - put the code in public directory - this was given when code was selected. 
