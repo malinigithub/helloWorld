@@ -22,3 +22,9 @@ with: who-to-greet: 'Mona the Octocat'
 ## Issues faced:
 
 https://github.com/coreui/coreui-react/issues/55 - put the code in public directory - this was given when code was selected.
+https://stackoverflow.com/questions/75514653/firebase-action-hosting-deploy-fails-with-requesterror-resource-not-accessible
+
+# Resources
+https://docs.github.com/en/actions/quickstart
+https://firebase.google.com/docs/hosting/github-integration
+
